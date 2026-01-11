@@ -54,10 +54,3 @@ and serve:
 ```bash
 dx serve
 ```
-
-## brain
-
-```bash
-7b0f4902-9e8d-4b75-b886-219fde963adc
-```
-
